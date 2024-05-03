@@ -9,10 +9,10 @@ data "terraform_remote_state" "prueba1" {
   }
 }
 
-#data "aws_region" "current" {}
+# #data "aws_region" "current" {}
 
-data "aws_caller_identity" "current" {}
+# data "aws_caller_identity" "current" {}
 
-data "aws_vpc" "vpc_example" {
-  id = var.id_vpc
-}
+# data "aws_vpc" "vpc_example" {
+#   id = var.id_vpc
+# }

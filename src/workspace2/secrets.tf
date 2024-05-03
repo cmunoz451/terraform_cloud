@@ -1,3 +1,3 @@
-variable "user" {
-    type = string
-}
+# variable "user" {
+#     type = string
+# }

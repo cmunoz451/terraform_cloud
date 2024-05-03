@@ -1,6 +1,6 @@
 variable "id_vpc" {
-type = string   
-  
+type = string
+
 }
 variable "access_key" {
   type = string      

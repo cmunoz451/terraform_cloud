@@ -10,3 +10,7 @@ variable "env" {
 variable "name_cird_block" {
  type = string
 }  
+variable "id_vpc" {
+type = string
+
+}
